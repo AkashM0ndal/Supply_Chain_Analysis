@@ -386,9 +386,11 @@ imbalanced-learn
 
 # 👨‍💻 Author
 
-**Kishor Mondal**
+**Akash Mondal**
+LinkedIn profile: https://www.linkedin.com/in/akash-m0ndal/
+Contact No.: +91 9083666706
 
-Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
+ Data Analyst | SQL | Python | Power BI | Machine Learning
 
 ---
 
