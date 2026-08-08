@@ -1,7 +1,6 @@
 # 📦 Supply Chain Performance Analysis & Late Delivery Prediction
 
 > An end-to-end Data Analytics and Machine Learning project that analyzes supply chain operations, uncovers business bottlenecks, measures operational performance, and predicts late delivery risks using historical transaction data.
-
 ---
 
 ## 📖 Project Overview
