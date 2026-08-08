@@ -3,11 +3,19 @@
 > An end-to-end Data Analytics and Machine Learning project that analyzes supply chain operations, uncovers business bottlenecks, measures operational performance, and predicts late delivery risks using historical transaction data.
 ---
 
+<img width="1536" height="1024" alt="Supply Chain Analysis project Photo" src="https://github.com/user-attachments/assets/b44a6eb7-a101-4531-8034-93cf5aebc567" />
+
+
+
+
+
+
 ## 📖 Project Overview
 
 Efficient supply chain management is essential for reducing operational costs, improving customer satisfaction, and increasing profitability. This project performs comprehensive analysis on a real-world supply chain dataset to identify operational inefficiencies, evaluate business performance through meaningful KPIs, and build a machine learning model capable of predicting delivery delays before shipment.
 
 The project follows the complete Data Analytics lifecycle—from data cleaning and exploratory analysis to business insight generation and predictive modeling.
+
 
 ---
 
